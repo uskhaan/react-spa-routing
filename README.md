@@ -1,3 +1,7 @@
+Introduction to the React JS routing in a Single Page App commonly used for the landing pages and blogs. For using react router, a routing region is defined which contains
+NavLinks
+Container to load content.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
